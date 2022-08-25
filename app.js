@@ -1,5 +1,5 @@
 let people={
-    age:11
+    age:112
 }
 
 console.log(people);
